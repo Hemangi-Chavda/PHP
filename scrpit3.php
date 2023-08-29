@@ -1,4 +1,4 @@
 <?php
-$a= 42 ;
-
+$answer = 42 ;
+echo "$answer is the answer is everything";
 ?>
